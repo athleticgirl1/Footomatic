@@ -330,7 +330,7 @@ footer .copyright {
   }
 
   header .boo {
-    width: 21.5%;
+    width: 23%;
   }
 
   .blue {
@@ -498,7 +498,6 @@ footer .copyright {
     justify-content: space-around;
     margin: 0;
     padding: 0;
-    border: 2px solid purple;
     width: 500px;
   }
 
@@ -550,7 +549,6 @@ footer .copyright {
 
   #features-section {
     display: block;
-    border: 2px solid blue;
     width: auto;
     margin: 0;
     padding: 0;
